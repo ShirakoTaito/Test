@@ -1,0 +1,14 @@
+package subTest;
+
+public class SubTest {
+
+	public static void subTest(){
+
+	}
+	public static int multi(int x,int y){
+		int m;
+
+		m = x * y ;
+		return m;
+	}
+}

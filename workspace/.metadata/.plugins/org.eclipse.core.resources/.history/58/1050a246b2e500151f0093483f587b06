@@ -1,0 +1,27 @@
+package test;
+
+import subTest.SubTest;
+import java.io.*;
+
+public class HelloWorld {
+	public static void main(String[] args) throws IOException {
+		//掛け算で使用する変数
+		int x, y;
+
+		//入力処理用の引数設定
+		BufferedReader in1 = new BufferedReader(new InputStreamReader(System.in));
+		BufferedReader in2 = new BufferedReader(new InputStreamReader(System.in));
+		//計算用の数値を入力
+		System.out.printf("引数1:");
+		x=Integer.valueOf(in1.readLine());
+		System.out.printf("引数2:");
+		y=Integer.valueOf(in2.readLine());
+
+		//データ表示
+		System.out.println("HallowWorld");
+		System.out.printf(x+" * "+y+" = ");
+
+		//掛け算を行ったデータ表示
+		System.out.println(SubTest.multi(x,y));
+	}
+}

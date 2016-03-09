@@ -1,0 +1,22 @@
+INDEX VERSION 1.127+C:\Shirako\pleiades\workspace\.metadata\.plugins\org.eclipse.jdt.core
+1077728057.index
+3260882906.index
+282576690.index
+291949455.index
+3239239359.index
+430112264.index
+1751712124.index
+4097331973.index
+2324044677.index
+2491579579.index
+4219279280.index
+3463594402.index
+203714174.index
+2947083826.index
+2945256565.index
+765801491.index
+993207759.index
+2719662981.index
+3375908858.index
+2053616652.index
+2112665084.index
